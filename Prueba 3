@@ -1,0 +1,12 @@
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    
+    Suma = a+b
+    Resta = a-b
+    Producto = a*b
+    
+    print(Suma)
+    print(Resta)
+    print(Producto)
+    
